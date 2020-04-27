@@ -10,6 +10,7 @@ Guia Prático para Programação (Iniciante)
 
 <br>
 ## :mag_right: Visão geral
+
    Esse guia tem como proposta encurtar o caminho de aprendizagem para quem procura entrar no mundo da programação, não se enquadra como um tutorial mas como um guia para melhor orientação, não significa que é o único caminho mas pode ajudar de várias maneiras, então sem demora vamos começar.
 Vídeo de apoio : [Programação não é facácil](https://www.youtube.com/watch?v=V7oUDL7E1g4)
 
@@ -58,12 +59,12 @@ Vídeo de apoio : [Programação não é facácil](https://www.youtube.com/watch
 
   Antes de começar, preciso falar de ambiente de desenvolvimento, isso é muito importante para um desenvolvedor, dominar o seu computador e seu ambiente, não importa se ele é Windows, Linux ou Mac. Isso leva tempo é normal demorar entender como sua máquina, aprender como funciona desde peças , memória e processamento faz de você mais dono da sua máquina não importa se é um Intel Celeron ou um Intel i9.
   
-# Git
+### Git
   Git é um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo.  site da documentação : [Git](https://git-scm.com/doc)
   Link de um guia de git ( em português) : [Gia Git](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
   Vídeo de apoio :  [Entendendo Git](https://www.youtube.com/watch?v=6Czd1Yetaac), [Usando Git Direito](https://www.youtube.com/watch?v=6OokP-NE49k).
 
-# GitHub e GitLab.
+### GitHub e GitLab.
 
 O Git e um controle de versão local e remoto, Github e Gitlab são plataformas de hospedagem de código-fonte. Elas permitem que os desenvolvedores contribuam em projetos privados ou abertos (mais conhecidos como projetos open source). por isso faça sua conta no Github ou GitLab para poder hospedar seu codigo, a maioria dos conteúdos estão no Github.
 
