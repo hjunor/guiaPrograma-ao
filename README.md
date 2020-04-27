@@ -19,6 +19,7 @@ Vídeo de apoio : [Programação não é facácil](https://www.youtube.com/watch
 ## :dart: Objetivos
 
 1 - Mostrar a base e  padrões na aprendizagem necessárias.
+
 2 - Ferramentas úteis.
 
 
@@ -27,25 +28,44 @@ Vídeo de apoio : [Programação não é facácil](https://www.youtube.com/watch
 
 ## :mortar_board: Programação em C ( Pode ser usada em demais linguagem)
 
-1 - Variáveis - primeiro como alocar um valor a essa variável e se essa variável é tipada. 
+<strong>1 - Variáveis - primeiro como alocar um valor a essa variável e se essa variável é tipada.</strong>
+
 2 -  Estrutura de condição  -  ( if , else ).
+
 3 - Figuras de repetição - ( for, while, do while).
+
 4 - Figuras de comparação( switch ).
+
 5 - Funções. 
+
 6 - Trabalhos com Array ( vetores e matrizes ) e struct.
+
 7 - Ponteiros.
-8 - Alocação de memória.
+
+<strong>8 - Alocação de memória.</strong>
+
 9 - Tipo abstrato de dado.
+
 10 - Criação de biblioteca e chamadas de função.
+
 11 - Pilha e Fila, ( encadeada e não encadeada ).
-12 - Ordenação.
+
+<strong>12 - Ordenação.</strong>
+
 13 - Ordenação com Selection.
+
 14 - Ordenação com Insertion.
+
 15 - Ordenação com Bubblesort.
+
 16 -  Ordenação com Quicksort.
+
 17 - Árvores ( vários tipos ).
+
 18 - Tabela hash.
-19  - Orientação a objetos.
+
+<strong>19  - Orientação a objetos.</strong>
+
 20 - Tratamento de exceções.
 
 # :floppy_disk: Banco de dados
