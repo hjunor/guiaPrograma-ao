@@ -9,6 +9,7 @@ Guia Prático para Programação (Iniciante)
 </h4>
 
 <br>
+
 ## :mag_right: Visão geral
 
    Esse guia tem como proposta encurtar o caminho de aprendizagem para quem procura entrar no mundo da programação, não se enquadra como um tutorial mas como um guia para melhor orientação, não significa que é o único caminho mas pode ajudar de várias maneiras, então sem demora vamos começar.
@@ -24,7 +25,7 @@ Vídeo de apoio : [Programação não é facácil](https://www.youtube.com/watch
 ## :memo: Base
    A base é essencial quando falamos em programação, não importa qual a linguagem utilizada, pois esses fundamentos serão usados com frequência. 
 
-# :mortar_board: Programação em C ( Pode ser usada em demais linguagem)
+## :mortar_board: Programação em C ( Pode ser usada em demais linguagem)
 
 1 - Variáveis - primeiro como alocar um valor a essa variável e se essa variável é tipada. 
 2 -  Estrutura de condição  -  ( if , else ).
