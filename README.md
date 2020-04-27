@@ -66,7 +66,7 @@ Vídeo de apoio : [Programação não é facácil](https://www.youtube.com/watch
 
 20 - Tratamento de exceções.
 
-# :floppy_disk:  Banco de dados
+## :floppy_disk:  Banco de dados
 
   Muito importante para a base são conceitos relacionados a banco de dados. A seguir, a lista de quais bancos você pode estudar no começo ( com link das documentações que é mais do que o necessário).
   
