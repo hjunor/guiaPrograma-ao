@@ -2,10 +2,6 @@
 :ledger:  Guia Prático para Programação (Iniciante)
 </h1>
 
-<h4 align="center">
-  ☕ Code and Coffee
-</h4>
-
 <br>
 
 ## :mag_right:  Visão geral
