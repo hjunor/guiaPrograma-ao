@@ -71,7 +71,9 @@ Vídeo de apoio : [Programação não é facácil](https://www.youtube.com/watch
   Muito importante para a base são conceitos relacionados a banco de dados. A seguir, a lista de quais bancos você pode estudar no começo ( com link das documentações que é mais do que o necessário).
   
   [MySQL](https://dev.mysql.com/doc/)
+  
   [MongoDB](https://docs.mongodb.com/)
+  
   [PostgreSQL](https://www.postgresql.org/docs/)
 
 ## :wrench:  Ferramentas Úteis
